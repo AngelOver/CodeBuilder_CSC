@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c1df2b2-814a-460d-ac1c-01db2cab2597" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/doc/Guns 技术文档 v1.0.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/patterns/header-profile-skin-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/patterns/header-profile-skin-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/patterns/header-profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/patterns/shattered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/chosen/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/chosen/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/iCheck/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/iCheck/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/images/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/1_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/1_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/diy/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/line_conn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/zTreeStandard.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/img/zTreeStandard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/boy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/girl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/loading-upload.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/img/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/theme/default/font/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/theme/default/font/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/theme/default/font/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/icon-ext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/loading-0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/loading-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/loading-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/Uploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_penggle_kaptcha_2_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibeetl_beetl_2_8_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_annotations_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ehcache_ehcache_3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/guns-admin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/sql/guns.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/Note.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/GunsApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/GunsServletInitializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/EhCacheConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/SpringSessionConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/SwaggerConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/properties/BeetlProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/properties/GunsProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/web/BeetlConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/web/ShiroConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/config/web/WebConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/aop/GlobalExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/aop/LogAop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/aop/PermissionAop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/beetl/BeetlConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/beetl/ShiroExt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/annotion/BussinessLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/annotion/Permission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/Const.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/DatasourceEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/cache/Cache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/cache/CacheKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/DeleteDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/DeptDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/DictMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/LogDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/MenuDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/NoticeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/RoleDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/UserDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/base/AbstractDictMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/base/SystemDict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/dictmap/factory/DictFieldWarpperFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/factory/ConstantFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/factory/IConstantFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/factory/MutiStrFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/factory/PageFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/BizLogType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/ExpenseState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/LogSucceed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/LogType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/ManagerStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/MenuOpenStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/MenuStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/constant/state/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/exception/BizExceptionEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/common/exception/InvalidKaptchaException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/intercept/GunsUserFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/intercept/SessionHolderInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/listener/ConfigListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/log/LogManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/log/LogObjectHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/log/factory/LogFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/log/factory/LogTaskFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/ShiroDbRealm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/ShiroKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/ShiroUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/check/ICheck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/check/PermissionCheckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/check/PermissionCheckManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/factory/IShiro.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/factory/ShiroFactroy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/tag/DictSelectorTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/util/ApiMenuFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/util/Contrast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/core/util/KaptchaUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/code/controller/CodeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/code/factory/DefaultTemplateFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/code/service/TableService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/BlackboardController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/DeptController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/DictController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/KaptchaController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/LogController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/LoginController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/LoginLogController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/MenuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/NoteController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/NoticeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/RoleController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/controller/UserMgrController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/DeptMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/DictMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/ExpenseMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/LoginLogMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/MenuMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/NoteMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/NoticeMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/OperationLogMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/RelationMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/RoleMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/DeptMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/DictMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/ExpenseMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/LoginLogMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/MenuMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/NoteMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/NoticeMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/OperationLogMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/RelationMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/RoleMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/UserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/factory/UserFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Dept.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Dict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Expense.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/LoginLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Note.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Notice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/OperationLog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Relation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IDeptService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IDictService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/ILoginLogService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IMenuService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/INoteService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/INoticeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IOperationLogService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IRelationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IRoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/IUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/DeptServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/DictServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/LoginLogServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/MenuServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/NoteServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/NoticeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/OperationLogServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/RelationServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/RoleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/transfer/ManagerUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/transfer/ReqAddManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/transfer/ReqEditManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/transfer/UserDto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/DeptWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/DictWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/LogWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/MenuWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/NoticeWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/RoleWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/modular/system/warpper/UserWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/resources/META-INF/spring-devtools.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/resources/ehcache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/resources/logback-spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/blackboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/code/code.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/_right.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/_tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/_theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/NameCon.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/SelectCon.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/TimeCon.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/avatar.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/button.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/input.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/select.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/table.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/common/tags/tag_tips" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/code/code.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dept/dept.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dept/dept_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dept/dept_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dict/dict.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dict/dict_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/dict/dict_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/log/log.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/log/login_log.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/menu/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/menu/menu_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/menu/menu_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/note/note.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/note/note_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/note/note_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/notice/notice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/notice/notice_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/notice/notice_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/role/role.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/role/role_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/role/role_assign.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/role/role_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user_chpwd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user_roleassign.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/WEB-INF/view/system/user/user_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/_fstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/bootstrap-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/bootstrap-table/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/bootstrap-treetable/bootstrap-treetable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/chosen/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/iCheck/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/validate/bootstrapValidator.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/webuploader/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/plugins/ztree/zTreeStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/DateUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/Feng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/ajax-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/bootstrap-table-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/select-list-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/tree-table-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/web-upload-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/common/ztree-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/contabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/hplus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/bootstrap-table/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/bootstrap-table/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/bootstrap-table/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/bootstrap-treetable/bootstrap-treetable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/chosen/chosen.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/laydate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/theme/default/font/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/laydate/theme/default/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/mobile/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/mobile/need/layer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/layer/theme/default/layer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/metisMenu/jquery.metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/validate/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/validate/bootstrapValidator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/validate/zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/wangEditor/wangEditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.fis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.flashonly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.flashonly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.html5only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.html5only.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.noimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.noimage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.nolog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.nolog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.withoutimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/webuploader/webuploader.withoutimage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/js/plugins/ztree/jquery.ztree.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/code/gen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/flowable/expense/expense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/flowable/expense/expense_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/flowable/process/process.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/flowable/process/process_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/code/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/dept/dept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/dept/dept_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/dict/dict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/dict/dict_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/log/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/log/login_log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/menu/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/menu/menu_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/note/note.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/note/note_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/notice/notice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/notice/notice_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/role/role.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/role/role_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/user/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/main/webapp/static/modular/system/user/user_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/base/BaseJunit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/shiro/Base64Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/system/BlackBoardTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/system/DeptTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/system/DictTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/system/MenuTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-admin/src/test/java/com/stylefeng/guns/system/UserTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/guns-core.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/CoreFlag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/aop/BaseControllerExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/controller/BaseController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/controller/GlobalController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/controller/GunsErrorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/ErrorTip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/SuccessTip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/tips/Tip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/base/warpper/BaseControllerWarpper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/cache/BaseCacheFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/cache/CacheKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/cache/EhcacheFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/cache/ICache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/cache/ILoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/DefaultFastjsonConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/DefaultMultiConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/DefaultProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/DefaultWebConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/MultiDataSourceConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/SingleDataSourceConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/properties/DruidProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/config/properties/MutiDataSourceProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/constant/IsMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/datascope/DataScope.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/datascope/DataScopeInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/db/Db.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/exception/GunsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/exception/GunsExceptionEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/exception/ServiceExceptionEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/mutidatasource/DataSourceContextHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/mutidatasource/DynamicDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/mutidatasource/annotion/DataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/mutidatasource/aop/MultiSourceExAop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/node/MenuNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/node/ZTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/page/PageBT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/page/PageInfoBT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/qr/ImgQrTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/qr/MatrixToImageConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/qr/MatrixToImageWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/qr/QrImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/BasicType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/BeanKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/ClassKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/CollectionKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/DateTime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/DateTimeKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/HexKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/HttpKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/ObjectKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/PageKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/StrKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/WafKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/WafRequestWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/support/exception/ToolBoxException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/Convert.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/DateUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/FileUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/HttpSessionHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/IdGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/MD5Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/NumUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/PingYinUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/RenderUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/ResKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/SimpleContrast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/SpringContextHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/SqlUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/ToolUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/xss/XssFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/xss/XssHttpServletRequestWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/resources/META-INF/spring.factories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-core/src/main/resources/default-config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/guns-generator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/action/GunsCodeGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/action/config/AbstractGeneratorConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/action/config/GunsGeneratorConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/action/config/WebGeneratorConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/action/model/GenQo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/SimpleTemplateEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/base/AbstractTemplateEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/base/GunsTemplateEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/ContextConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/ControllerConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/DaoConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/PageConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/ServiceConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/java/com/stylefeng/guns/generator/engine/config/SqlConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/Controller.java.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/menu_sql.sql.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/page.html.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/page.js.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/page_add.html.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/page_edit.html.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-generator/src/main/resources/gunsTemplate/advanced/page_info.js.btl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-parent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/db/guns_rest.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/guns-rest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/GunsRestApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/SimpleObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/exception/BizExceptionEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/UserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/common/persistence/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/config/MessageConverConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/config/MybatisPlusConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/config/WebConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/config/properties/JwtProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/config/properties/RestProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/BaseTransferEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/WithSignMessageConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/security/DataSecurityAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/security/impl/Base64SecurityAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/util/JwtTokenUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/IReqValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/dto/Credence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/DbValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/SimpleValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/java/com/stylefeng/guns/rest/modular/example/ExampleController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/test/java/com/stylefeng/guns/GunsRestApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/test/java/com/stylefeng/guns/fastjson/JsonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/test/java/com/stylefeng/guns/jwt/DecryptTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guns-rest/src/test/java/com/stylefeng/guns/jwt/JWTTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/guns-admin/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/guns-generator/target/" />
+    <ignored path="$PROJECT_DIR$/guns-core/target/" />
+    <ignored path="$PROJECT_DIR$/guns-rest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4652">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GunsApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/GunsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeBuilder_CSC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/tec" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4797239" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GunsApplication">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="guns-admin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="guns-admin" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="guns-admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GunsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.GunsApplication" />
+      <module name="guns-admin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GunsRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.GunsRestApplication" />
+      <module name="guns-rest" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.GunsApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.GunsRestApplication" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c1df2b2-814a-460d-ac1c-01db2cab2597" name="Default" comment="" />
+      <created>1537145484998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537145484998</updated>
+      <workItem from="1537145487014" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4652">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guns-admin/src/main/java/com/stylefeng/guns/GunsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
